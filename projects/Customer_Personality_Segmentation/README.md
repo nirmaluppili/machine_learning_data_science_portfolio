@@ -83,3 +83,20 @@ projects/Customer_Personality_Segmentation/Customer_Personality_Segmentation.ipy
 - Unsupervised machine learning
 - Customer segmentation
 - Business recommendations from data insights
+
+## A Note on AI Assistance Transparency
+
+An AI assistant was used as a learning tool during this project. 
+Its role was to explain concepts, verify data dictionary definitions, 
+and format markdown and comments.
+
+All analytical decisions are my own:
+- The 13-step project workflow was developed through my own reasoning
+- EDA questions were formed independently before any analysis
+- Hypotheses were written based on my observations of the data
+- Cluster naming and business recommendations reflect my interpretation
+  of the results
+- All code was written and run by me
+
+AI was used the way a senior colleague would be used — to answer 
+questions and give feedback, not to do the work.
