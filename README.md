@@ -1,7 +1,7 @@
 # Machine Learning & Data Science Portfolio
 **Nirmal Uppili | Senior BI Engineer & Data Science Student**
 
-MIT IDSS Applied AI, Data Science & Machine Learning Program
+Currently pursuing MIT IDSS Applied AI, Data Science & Machine Learning Program
 
 ---
 
