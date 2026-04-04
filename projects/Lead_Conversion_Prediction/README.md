@@ -123,4 +123,17 @@ larger datasets.
 ---
 
 ## How to Run
+1. Clone the repository
+git clone https://github.com/nirmaluppili/machine_learning_data_science_portfolio.git
+2. Navigate to project folder
+cd projects/Lead_Conversion_Prediction
+3. Install dependencies
+pip install pandas numpy matplotlib seaborn scikit-learn scipy
+4. Open notebook
+jupyter notebook Lead_Conversion_Prediction.ipynb
+Note: Download the dataset from Kaggle before running the notebook.
+
+Dataset: ExtraaLearn Potential Customers — search on kaggle.com
+Place the downloaded CSV in your local datasets/ folder
+Update file_path in the data loading cell to match your local path
 ```bash
