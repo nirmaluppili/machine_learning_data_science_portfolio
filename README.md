@@ -7,11 +7,14 @@ Currently pursuing MIT IDSS Applied AI, Data Science & Machine Learning Program
 
 ## Projects
 
-| Project                                                                        | Type | Tools | Status |
-|--------------------------------------------------------------------------------|---|---|---|
-| [Customer Personality Segmentation](projects/Customer_Personality_Segmentation/) | Unsupervised ML — K-Means Clustering | Python, Scikit-learn, Pandas, Seaborn | ✅ Complete |
-| [Lead Conversion Prediction](projects/Lead_Conversion_Prediction/)             | Supervised ML — Classification | Python, Scikit-learn, Pandas, Seaborn, Scipy | ✅ Complete |---
-| [Amazon Recommendation System](projects/Amazon_Recommendation_System/)         | Unsupervised ML — Collaborative Filtering | Python, Scikit-learn, Pandas, Surprise | 🔄 In Progress |
+| Project                                                                        | Type | Tools | Status         |
+|--------------------------------------------------------------------------------|---|---|----------------|
+| [Customer Personality Segmentation](projects/Customer_Personality_Segmentation/) | Unsupervised ML — K-Means Clustering | Python, Scikit-learn, Pandas, Seaborn | ✅ Complete     |
+| [Lead Conversion Prediction](projects/Lead_Conversion_Prediction/)             | Supervised ML — Classification | Python, Scikit-learn, Pandas, Seaborn, Scipy | ✅ Complete     |
+| [Amazon Recommendation System](projects/Amazon_Recommendation_System/)         | Unsupervised ML — Collaborative Filtering | Python, Scikit-learn, Pandas, Surprise | 🟡 In Progress |
+| [Merchandising Customer Insights](projects/merchandising-customer-insights/)   | Analytics — RFM Segmentation & Churn Prediction | Python, Pandas, Scikit-learn, Matplotlib, Seaborn | 🟡 In Progress |
+
+---
 ## About
 
 This portfolio documents end-to-end data science and machine learning 
